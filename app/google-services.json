@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "532704264975",
+    "project_id": "createuserapp-e1192",
+    "storage_bucket": "createuserapp-e1192.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532704264975:android:d0bcae9223804e4a08747a",
+        "android_client_info": {
+          "package_name": "br.com.victor.firebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532704264975-to8gbopvrm1ifsf3b3clldf95ak6hc2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkVNxPAi5jj4zktLPPJ_YnvyPpGnhh68o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532704264975-to8gbopvrm1ifsf3b3clldf95ak6hc2m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
